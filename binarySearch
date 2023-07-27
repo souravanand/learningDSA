@@ -1,12 +1,10 @@
-1)https://leetcode.com/problems/search-in-rotated-sorted-array/
-2)https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
-3)https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-4)https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
-5) Maximum in sorted rotated array
-6)https://leetcode.com/problems/find-peak-element/description/
-7)https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
-8)Frequency of K in sorted array 
-9)https://leetcode.com/problems/single-element-in-a-sorted-array/description/
-10)https://leetcode.com/problems/sqrtx/
-11)given an array of positive number. find the max length k such that there exists no subarray of length k with sum>= B
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+Maximum in sorted rotated array
+https://leetcode.com/problems/find-peak-element/description/
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+Frequency of K in sorted array 
+https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+https://leetcode.com/problems/sqrtx/
+given an array of positive number. find the max length k such that there exists no subarray of length k with sum>= B
 
